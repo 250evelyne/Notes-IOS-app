@@ -454,14 +454,7 @@ NavigationView {
 
 <p align="center">
   <img src="images/Notes-list-from-home.png" alt="Notes list" width="300"/>
-  <img src="images/Notes-edit-screen.png" alt="Notes edit screen" width="300"/>
 </p>
-
-1. **Notes List View**: Main screen showing all notes with images
-2. **Swipe to Delete**: Demonstration of swipe gesture
-3. **Edit Sheet**: Modal view for editing note title
-4. **Firebase Console**: Firestore collection with data
-5. **API Response**: Postman showing successful API call
 
 ## 🎓 What I Learned
 
