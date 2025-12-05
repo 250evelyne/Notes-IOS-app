@@ -452,7 +452,8 @@ NavigationView {
 
 ## 📸 Screenshots
 
-
+![Notes list](images/Notes list from home.png)
+![Notes edit screen](images/Notes edit screen.png)
 
 
 1. **Notes List View**: Main screen showing all notes with images
