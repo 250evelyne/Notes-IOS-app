@@ -452,9 +452,9 @@ NavigationView {
 
 ## 📸 Screenshots
 
-*(Add screenshots of your application here)*
 
-**Suggested Screenshots:**
+
+
 1. **Notes List View**: Main screen showing all notes with images
 2. **Swipe to Delete**: Demonstration of swipe gesture
 3. **Edit Sheet**: Modal view for editing note title
