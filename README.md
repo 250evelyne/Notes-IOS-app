@@ -452,9 +452,10 @@ NavigationView {
 
 ## 📸 Screenshots
 
-![Notes list](images/Notes-list-from-home.png)
-![Notes edit screen](images/Notes-edit-screen.png)
-
+<p align="center">
+  <img src="images/Notes-list-from-home.png" alt="Notes list" width="300"/>
+  <img src="images/Notes-edit-screen.png" alt="Notes edit screen" width="300"/>
+</p>
 
 1. **Notes List View**: Main screen showing all notes with images
 2. **Swipe to Delete**: Demonstration of swipe gesture
